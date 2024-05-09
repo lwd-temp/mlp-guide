@@ -2,7 +2,7 @@
     "name": "mlp-guide",
     "dependencies": {
         "jade": "0.30.x",
-        "underscore": "1.4.x"
+        "underscore": "1.13.x"
     }
 }
 
